@@ -1,8 +1,7 @@
-# React + Vite
+# Nike Landing Page
+_Technologies Used: React, Vite, Tailwind CSS_
+- Acquired knowledge of Tailwind CSS and its utility-first approach to styling.
+  
+![image](https://github.com/devensinghbhagtani/Dealing-with-React/assets/67409912/84efb751-1189-40d0-856c-9b6842643ed9)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Figma: https://www.figma.com/design/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?node-id=0-1&t=LPUEGC3qXtvyxl66-1

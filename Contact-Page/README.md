@@ -1,8 +1,7 @@
-# React + Vite
+# Nike Contact Page Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+_Technologies Used: React, Vite, Tailwind CSS_
+- Gained a comprehensive understanding of props and data flow within React components.
+- Successfully implemented data transmission between parent and child components, including the use of callback functions for bidirectional data flow.
+  
+![image](https://github.com/devensinghbhagtani/Dealing-with-React/assets/67409912/278dd463-f1ae-4e03-80c2-0f83a9dd31a6)
